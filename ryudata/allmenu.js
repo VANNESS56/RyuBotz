@@ -377,5 +377,7 @@ exports.allmenu = (prefix, jams, bulan, hari, tanggal, timeWib, timeWita, timeWi
 │➸ ${prefix}cecanthailand
 │➸ ${prefix}cecanchina
 ╰─ ✾
+*_WhatsApp Bot By VannessTzy_*
+Copyright 2022 © Vanness Store
 `
 }
