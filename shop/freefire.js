@@ -1,5 +1,5 @@
 const ff = (prefix) => {
-return `*Ryuuka Store*
+return `*VANNESS STORE*
 				
 PROSES	1-180Mnt 1X24 Jam			
 OPEN	10.00-19.00			
