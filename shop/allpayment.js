@@ -5,15 +5,15 @@ return `┏━━━━━━━━━━━━━━━━━━━━
 ┣━━⊱❉ *💰 E-WALLET* ❉⊰━━━✿
 ┃   
 ┣━⊱ *GOPAY*
-┣⊱ 0899 0000 0000
+┣⊱ 0812 7477 8877
 ┣━━✿ NAMA GOPAY ${ownername}
 ┃
 ┣━⊱ *DANA*
-┣⊱ 0899 0000 0000
+┣⊱ Minta Sama Owner
 ┣━━✿ NAMA DANA ${ownername}
 ┃
 ┣━⊱ *PULSA*
-┣⊱ 0899 0000 0000
+┣⊱ C L O S E
 ┣━━✿ NAMA PULSA ${ownername}
 ┃
 ┗━━━━━━━━━━━━━━━━━━━━
