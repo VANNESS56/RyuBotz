@@ -1,5 +1,5 @@
 const mobilelegend = (prefix) => {
-return `*Ryuuka Store*
+return `*VANNESS STORE*
 			
 PROSES	1-60Mnt Max 1X24 Jam		
 OPEN	08.00-21.00		
